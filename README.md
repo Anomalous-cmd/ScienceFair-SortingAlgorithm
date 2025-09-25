@@ -3,7 +3,7 @@ Made by Gordon for Science Fair
 
 Sorting Algorithm Program Installation
 
-    1. Click on Releases
+    1. Click on Releases and scroll down to assets
   
     2. Download the Sorting Algorithm Exe
   
