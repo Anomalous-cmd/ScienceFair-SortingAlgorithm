@@ -3,10 +3,10 @@ Made by Gordon for Science Fair
 
 Sorting Algorithm Program Installation
 
-    Click on Releases
+    1. Click on Releases
   
-    Download the Sorting Algorithm Exe
+    2. Download the Sorting Algorithm Exe
   
-    After downloading, open File Explorer and go to downloads
+    3. After downloading, open File Explorer and go to downloads
   
-    Double-click on the sorting algorithm program to open it
+    4. Double-click on the sorting algorithm program to open it
