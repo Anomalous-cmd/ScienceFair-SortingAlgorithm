@@ -138,12 +138,12 @@ void counting_sort(int arr[], int size, int place){
 
     for (i=1; i < size; i++){
         if (((arr[i] / place) % 10) > max){
-            max = arr[i];
+            max = (arr[i] / place) % 10;
         }
     }
-    int count[max + 1];
+    int count[10] = {0};
 
-    for (i=0; i < max; ++i){
+    for (i=0; i < 10; ++i){
         count[i] = 0;
     }
 
