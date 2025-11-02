@@ -1,5 +1,5 @@
 # ScienceFair-SortingAlgorithm
-Made by Gordon for Science Fair
+Made for Science Fair
 
 Sorting Algorithm Program Installation
 
